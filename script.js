@@ -7,7 +7,7 @@ let image=document.querySelector("#image img")
 
 
 
-const Api_Url="https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBwdiJiuVJ9yoOsIRf9qBzK9osQUoOAUU8"
+const Api_Url="https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key="
 
 let user={
     message:null,
